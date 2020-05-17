@@ -1,6 +1,6 @@
 # PredictWeather
 
-docker-compose build
+docker-compose build \n
 docker-compose up
 
 http://localhost:3000
